@@ -6,7 +6,6 @@ This project includes data generation, cleaning, and analysis of banking custome
 - Jupyter notebooks for analysis and cleaning
 - SQLite database file
 - Power BI dashboard (.pbix)
-- Summary report in PDF
 
 ## Highlights
 - Data consistency checks
