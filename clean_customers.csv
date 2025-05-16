@@ -1,0 +1,101 @@
+customer_id,first_name,last_name,gender,date_of_birth,join_date,income,city,province,customer_age,customer_tenure
+1,Anthony,Miller,Male,1977-01-25,2019-11-21,54798.03,Sydney,Nova Scotia,48,5
+2,Brian,Santana,Male,1951-12-14,2021-10-20,129005.46,Hamilton,Ontario,73,3
+3,Kimberly,Cook,Female,2007-05-04,2016-03-27,64303.77,Ottawa,Ontario,18,9
+4,Christopher,Rogers,Male,1972-01-26,2019-07-11,63838.17,Prince Albert,Saskatchewan,53,5
+5,Christopher,Bullock,Male,2001-12-30,2016-11-04,41290.99,Halifax,Nova Scotia,23,8
+6,Sherry,Gray,Female,1949-10-20,2020-09-20,29084.0,Prince Albert,Saskatchewan,75,4
+7,Monique,Garcia,Female,1952-05-04,2016-12-06,33264.77,Toronto,Ontario,73,8
+8,Michael,Martinez,Male,1950-10-19,2020-04-26,36412.46,Mississauga,Ontario,74,5
+9,Susan,Berry,Female,1967-05-30,2023-05-04,94543.05,Brandon,Manitoba,57,2
+10,Ryan,Mack,Male,1972-09-22,2024-03-24,119943.32,Prince Albert,Saskatchewan,52,1
+11,Rebecca,Clark,Female,1990-10-16,2024-04-27,46892.12,Summerside,Prince Edward Island,34,1
+12,Karl,Yu,Male,1950-03-17,2022-02-16,71770.96,Corner Brook,Newfoundland and Labrador,75,3
+13,Stephanie,Lucas,Female,1978-11-30,2024-07-07,87679.17,Sydney,Nova Scotia,46,0
+14,Mark,Estrada,Male,2006-01-28,2023-08-16,130154.43,Vancouver,British Columbia,19,1
+15,Kelly,Barnes,Female,1984-01-24,2015-11-23,105549.64,Surrey,British Columbia,41,9
+16,Sarah,Brewer,Female,1998-09-30,2016-10-04,92046.48,Gatineau,Quebec,26,8
+17,Susan,Barrett,Female,1960-12-06,2021-01-18,94511.91,Saskatoon,Saskatchewan,64,4
+18,George,Myers,Male,1954-05-05,2023-02-15,96206.23,Saskatoon,Saskatchewan,71,2
+19,Jasmine,Osborne,Female,1950-06-19,2018-07-27,149681.83,Dartmouth,Nova Scotia,74,6
+20,Kevin,Decker,Male,1974-02-03,2015-07-28,103044.11,Fredericton,New Brunswick,51,9
+21,Steven,Bright,Male,1976-12-18,2024-05-27,90742.11,Victoria,British Columbia,48,0
+22,Kathryn,Holloway,Female,1953-06-02,2020-03-31,69216.72,Moncton,New Brunswick,71,5
+23,William,Maynard,Male,1992-03-23,2019-04-29,37514.59,Calgary,Alberta,33,6
+24,Kimberly,Hooper,Female,1959-10-26,2024-06-23,123855.55,Brandon,Manitoba,65,0
+25,Jill,Walton,Female,1952-05-10,2015-07-12,20046.19,Charlottetown,Prince Edward Island,73,9
+26,Brandy,Lee,Female,1966-10-19,2021-05-05,111916.83,Gatineau,Quebec,58,4
+27,Michael,Blevins,Male,1992-07-07,2022-07-04,123445.49,Halifax,Nova Scotia,32,2
+28,April,Williamson,Female,1984-01-31,2021-05-24,23787.79,Regina,Saskatchewan,41,3
+29,Michelle,Miller,Female,1949-12-08,2024-06-20,24294.05,Corner Brook,Newfoundland and Labrador,75,0
+30,Jamie,Payne,Female,1992-07-28,2022-03-25,65287.71,Kelowna,British Columbia,32,3
+31,Allen,Morris,Male,1981-07-05,2015-12-01,113303.33,Surrey,British Columbia,43,9
+32,Paul,Rogers,Male,1973-01-22,2015-10-04,116734.82,Hamilton,Ontario,52,9
+33,Margaret,Booker,Female,1977-11-14,2016-06-12,38998.1,Brandon,Manitoba,47,8
+34,Michelle,Shelton,Female,1974-09-04,2019-05-09,36441.09,Prince Albert,Saskatchewan,50,6
+35,Patrick,Summers,Male,1992-01-22,2016-04-29,101850.29,Summerside,Prince Edward Island,33,9
+36,Norma,Hughes,Female,1970-03-10,2017-11-03,28067.25,Kelowna,British Columbia,55,7
+37,Thomas,Barton,Male,1969-03-03,2021-12-22,65440.16,Saint John,New Brunswick,56,3
+38,Isabella,Nichols,Female,1972-05-03,2024-02-25,122844.19,Ottawa,Ontario,53,1
+39,Barbara,Jackson,Female,1989-06-16,2021-12-04,133281.31,St. John's,Newfoundland and Labrador,35,3
+40,Jessica,Figueroa,Female,1980-04-19,2015-09-15,85015.93,Corner Brook,Newfoundland and Labrador,45,9
+41,Gregory,Pitts,Male,1999-09-21,2023-01-11,136146.36,Saskatoon,Saskatchewan,25,2
+42,Elizabeth,Moody,Female,1951-04-12,2018-01-19,140876.07,Edmonton,Alberta,74,7
+43,Kelly,Savage,Female,1984-05-19,2024-10-27,54391.32,Toronto,Ontario,41,0
+44,Chad,Porter,Male,1986-06-22,2021-08-18,85667.03,Ottawa,Ontario,38,3
+45,Courtney,Hudson,Female,1955-09-03,2019-12-23,93401.18,Laval,Quebec,69,5
+46,Timothy,Sanchez,Male,1971-04-09,2019-11-08,64348.75,St. John's,Newfoundland and Labrador,54,5
+47,James,Mays,Male,1954-10-28,2018-09-15,122190.41,Saint John,New Brunswick,70,6
+48,Kathy,Chang,Female,1950-07-10,2018-08-28,121004.08,Steinbach,Manitoba,74,6
+49,Debra,Hall,Female,1990-03-11,2020-09-29,64267.83,Edmonton,Alberta,35,4
+50,Bradley,Spencer,Male,1958-06-09,2024-06-10,136774.87,Summerside,Prince Edward Island,66,0
+51,Brandy,Winters,Female,1982-11-08,2022-02-17,110451.68,Montreal,Quebec,42,3
+52,Paula,Scott,Female,2006-01-09,2025-03-09,132014.12,Prince Albert,Saskatchewan,19,0
+53,Sharon,Peterson,Female,1964-08-10,2023-11-18,61015.86,Lethbridge,Alberta,60,1
+54,Tammy,Lynch,Female,1949-10-05,2023-10-07,125489.86,Edmonton,Alberta,75,1
+55,Gwendolyn,Richards,Female,1996-05-24,2016-03-30,147039.96,Hamilton,Ontario,28,9
+56,Heather,Murray,Female,1994-11-16,2022-07-06,85061.72,Kelowna,British Columbia,30,2
+57,Emily,Robinson,Female,1979-11-30,2021-03-10,28990.7,Winnipeg,Manitoba,45,4
+58,Robin,Lee,Female,1961-08-25,2021-11-09,85367.85,Summerside,Prince Edward Island,63,3
+59,William,Brown,Male,1977-07-30,2021-09-27,142748.74,Hamilton,Ontario,47,3
+60,Kathryn,Calderon,Female,1961-04-03,2024-11-11,33970.57,Summerside,Prince Edward Island,64,0
+61,James,Jones,Male,1969-06-28,2017-06-08,104088.66,Brandon,Manitoba,55,7
+62,Susan,Shaw,Female,1990-07-22,2020-11-01,52293.73,Fredericton,New Brunswick,34,4
+63,Amy,James,Female,1989-03-25,2021-12-17,63833.18,Ottawa,Ontario,36,3
+64,Edwin,Owens,Male,2001-06-14,2020-11-16,22588.59,Fredericton,New Brunswick,23,4
+65,David,Griffin,Male,2006-07-29,2022-10-29,82051.83,Hamilton,Ontario,18,2
+66,Justin,Cooper,Male,1996-05-04,2023-02-07,62359.33,Saskatoon,Saskatchewan,29,2
+67,Jonathan,Whitehead,Male,1968-01-26,2021-02-02,80242.82,Summerside,Prince Edward Island,57,4
+68,Troy,White,Male,1950-09-16,2022-08-21,61681.04,Halifax,Nova Scotia,74,2
+69,Matthew,Gross,Male,1981-11-01,2024-06-16,133306.33,Winnipeg,Manitoba,43,0
+70,Amanda,Bolton,Female,1958-12-27,2020-11-23,66491.34,Toronto,Ontario,66,4
+71,Sheila,Snow,Female,1964-05-20,2015-11-25,107590.08,Calgary,Alberta,61,9
+72,Julie,Lam,Female,1990-04-12,2020-04-06,88220.39,St. John's,Newfoundland and Labrador,35,5
+73,Michele,Santana,Female,1950-04-21,2020-10-22,84979.03,Moncton,New Brunswick,75,4
+74,Monica,Perez,Female,1953-08-13,2019-08-31,88615.36,Gatineau,Quebec,71,5
+75,Dominique,Cowan,Female,1973-09-09,2022-08-01,124958.69,St. John's,Newfoundland and Labrador,51,2
+76,Amanda,Smith,Female,1995-03-16,2018-02-26,72833.68,Moncton,New Brunswick,30,7
+77,Craig,Adams,Male,1960-08-24,2024-05-22,94100.99,Dartmouth,Nova Scotia,64,0
+78,Sara,Turner,Female,1981-02-28,2019-03-02,40000.21,Victoria,British Columbia,44,6
+79,Douglas,Davis,Male,1979-06-25,2024-08-16,147002.73,Ottawa,Ontario,45,0
+80,Justin,Aguirre,Male,1984-10-15,2016-07-04,29547.19,Toronto,Ontario,40,8
+81,Madison,Long,Female,2003-08-23,2022-12-26,105307.75,St. John's,Newfoundland and Labrador,21,2
+82,Brian,Hudson,Male,2001-03-10,2022-10-09,140207.38,Lethbridge,Alberta,24,2
+83,Kelly,Moore,Female,1958-07-06,2018-08-30,140531.84,Winnipeg,Manitoba,66,6
+84,Tara,Davila,Female,1951-11-29,2019-07-07,107223.48,Saskatoon,Saskatchewan,73,5
+85,Thomas,Jones,Male,1951-02-11,2015-07-17,117326.26,Kelowna,British Columbia,74,9
+86,Jason,Morris,Male,1951-05-24,2016-01-24,73857.49,Corner Brook,Newfoundland and Labrador,74,9
+87,Tammy,Wright,Female,1979-01-01,2020-04-23,92863.11,Halifax,Nova Scotia,46,5
+88,Tammy,Torres,Female,1968-07-31,2020-11-17,132897.26,Winnipeg,Manitoba,56,4
+89,Christy,Johnson,Female,1973-12-15,2017-12-14,115058.71,Quebec City,Quebec,51,7
+90,John,Perry,Male,1984-02-05,2022-09-30,79813.57,Prince Albert,Saskatchewan,41,2
+91,James,Lopez,Male,1954-08-07,2023-10-22,77854.07,Regina,Saskatchewan,70,1
+92,Sheena,Mitchell,Female,1981-09-21,2017-03-03,47738.55,Toronto,Ontario,43,8
+93,Cameron,Stevens,Male,1973-05-14,2024-09-27,97067.01,Prince Albert,Saskatchewan,52,0
+94,Lucas,Wallace,Male,1973-05-18,2020-04-07,121466.35,Lethbridge,Alberta,52,5
+95,Jack,Myers,Male,1952-07-27,2017-02-24,74442.66,Moncton,New Brunswick,72,8
+96,Jordan,Mcclure,Male,1955-10-23,2020-11-17,41133.58,Laval,Quebec,69,4
+97,Noah,Deleon,Male,1963-05-15,2021-11-21,32767.48,Lethbridge,Alberta,62,3
+98,Catherine,Martinez,Female,1981-09-09,2017-09-29,141804.8,Halifax,Nova Scotia,43,7
+99,Samuel,Smith,Male,2003-01-13,2016-10-27,39720.67,Fredericton,New Brunswick,22,8
+100,Gary,Garcia,Male,1964-04-06,2023-02-20,37462.87,Mississauga,Ontario,61,2
